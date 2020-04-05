@@ -13,6 +13,18 @@
   }
 }
 
+.cancelled {
+  color: red;
+}
+
+.freeze {
+  color: blue;
+}
+
+.nope {
+  color: lightgreen;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
